@@ -7,9 +7,9 @@ This repository contains the course syllabus for an introductory mini-course to 
 One of the hardest challenges in digital sustainability is the preconception that sustainability is expensive. The objective with this course is to debunk this preconception by introducing users to digital sustainability while emphasising the ability to save and/or make money from it.
 
 ## Usage
-**Related services.** We are happy to help universities, companies, and/or organisations implement this course as part of their teaching/training. The course can be given in full, or condensed into a 2-hour seminar.
+**Related services.** I am happy to help universities, companies, and/or organisations implement this course as part of their teaching/training. The course can be given in full, or condensed into a 2-hour seminar.
 
-**Free usage.** As per the license terms below, you can also use the contents of this repository as part of your own teaching/training, provided you attribute in a way that is visible to final users.
+**Free usage.** As per the license terms below, the contents of this repository can also be used as part of teaching/training by others, provided attribution is given in a way that is visible to final users.
 
 ## License
 The repository has been open-sourced under an (Apache 2.0) open-source license ammended to require explicit and visible attribution.
@@ -17,7 +17,7 @@ The repository has been open-sourced under an (Apache 2.0) open-source license a
 Please read the [license](LICENSE-2.0.txt) and [NOTICE](NOTICE.txt) file. 
 
 ## Feedback
-We believe the mini-course can already be helpful, reason why we have open-sourced it. That said, we are also gathering feedback and literature suggestions to potentially add in future revisions.
+The mini-course can already be helpful, reason why it was open-sourced it. That said, I am also gathering feedback and literature suggestions to potentially add in future revisions.
 
 Please submit feedback by creating an issue on this repository or messaging us on [LinkedIn](https://www.linkedin.com/company/polyzentrik).
 
