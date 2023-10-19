@@ -22,4 +22,4 @@ We believe the mini-course can already be helpful, reason why we have open-sourc
 Please submit feedback by creating an issue on this repository or messaging us on [LinkedIn](https://www.linkedin.com/company/polyzentrik).
 
 ## Additional information
-For more information visit: [https://www.polyzentrik.com/resources/ds-101](https://www.polyzentrik.com/resources/ds-101).
+For more information visit: [https://www.polyzentrik.com/resources/ds-101/](https://www.polyzentrik.com/resources/ds-101/).
