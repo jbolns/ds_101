@@ -14,7 +14,7 @@ One of the hardest challenges in digital sustainability is the preconception tha
 ## License
 The repository has been open-sourced under an (Apache 2.0) open-source license ammended to require explicit and visible attribution.
 
-Please read the [license](license.txt) and [NOTICE](notice.txt) file. 
+Please read the [license](main/LICENSE-2.0.txt) and [NOTICE](main/notice.txt) file. 
 
 ## Feedback
 We believe the mini-course can already be helpful, reason why we have open-sourced it. That said, we are also gathering feedback and literature suggestions to potentially add in future revisions.
